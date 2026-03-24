@@ -6,7 +6,7 @@
             elements: {
                 rectangle: {
                     borderWidth: 2,
-                    borderColor: '#0e5281',
+                    borderColor: '#113153',
                     borderSkipped: 'bottom'
                 }
             },
@@ -46,7 +46,7 @@
             datasets: [{
                 label: "Total Leads",
                 data: [{!! $bardata !!}],
-                backgroundColor: "#0e5281",
+                backgroundColor: "#113153",
                 hoverBackgroundColor: "#1f81c7",
                 borderColor: "transparent"
             }]

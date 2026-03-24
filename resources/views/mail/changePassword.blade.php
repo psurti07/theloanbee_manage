@@ -111,7 +111,7 @@
                                                                                 <tbody>
                                                                                     <tr>
                                                                                         <td align="left"
-                                                                                            style="padding: 20px; margin: 0; line-height: 1.5rem;background-color: #E9F2FB; border-radius:12px;color:#000;font-size:16px">
+                                                                                            style="padding: 20px; margin: 0; line-height: 1.5rem;background-color: #fff9ea; border-radius:12px;color:#000;font-size:16px">
                                                                                             <p style="font-size:15px"><strong>Dear {{ $fullname }},</strong></p>
                                                                                             <p style="font-size:15px">We wanted to inform you that your account password has been successfully changed.</p>
                                                                                             <p style="font-size:15px">
